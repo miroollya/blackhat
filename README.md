@@ -1,1 +1,1 @@
-blackhat c2 purpose only
+C2 exploit poc will coming soon..
